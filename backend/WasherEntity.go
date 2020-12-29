@@ -4,5 +4,5 @@ type Washer struck{
 
 
 
-
-
+g
+e
